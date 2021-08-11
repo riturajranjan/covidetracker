@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covidetraker/static/css/main.6ff7b5d7.chunk.css",
+    "main.js": "/covidetraker/static/js/main.a6c76748.chunk.js",
+    "main.js.map": "/covidetraker/static/js/main.a6c76748.chunk.js.map",
+    "runtime-main.js": "/covidetraker/static/js/runtime-main.7f9da762.js",
+    "runtime-main.js.map": "/covidetraker/static/js/runtime-main.7f9da762.js.map",
+    "static/js/2.c0449bdc.chunk.js": "/covidetraker/static/js/2.c0449bdc.chunk.js",
+    "static/js/2.c0449bdc.chunk.js.map": "/covidetraker/static/js/2.c0449bdc.chunk.js.map",
+    "static/js/3.51e9330d.chunk.js": "/covidetraker/static/js/3.51e9330d.chunk.js",
+    "static/js/3.51e9330d.chunk.js.map": "/covidetraker/static/js/3.51e9330d.chunk.js.map",
+    "index.html": "/covidetraker/index.html",
+    "static/css/main.6ff7b5d7.chunk.css.map": "/covidetraker/static/css/main.6ff7b5d7.chunk.css.map",
+    "static/js/2.c0449bdc.chunk.js.LICENSE.txt": "/covidetraker/static/js/2.c0449bdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f9da762.js",
+    "static/js/2.c0449bdc.chunk.js",
+    "static/css/main.6ff7b5d7.chunk.css",
+    "static/js/main.a6c76748.chunk.js"
+  ]
+}
